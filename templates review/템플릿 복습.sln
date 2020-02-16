@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "템플릿 복습", "템플릿 복습\템플릿 복습.vcxproj", "{D561D503-1A87-431E-91ED-8084191697EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D561D503-1A87-431E-91ED-8084191697EC}.Debug|x64.ActiveCfg = Debug|x64
+		{D561D503-1A87-431E-91ED-8084191697EC}.Debug|x64.Build.0 = Debug|x64
+		{D561D503-1A87-431E-91ED-8084191697EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D561D503-1A87-431E-91ED-8084191697EC}.Debug|x86.Build.0 = Debug|Win32
+		{D561D503-1A87-431E-91ED-8084191697EC}.Release|x64.ActiveCfg = Release|x64
+		{D561D503-1A87-431E-91ED-8084191697EC}.Release|x64.Build.0 = Release|x64
+		{D561D503-1A87-431E-91ED-8084191697EC}.Release|x86.ActiveCfg = Release|Win32
+		{D561D503-1A87-431E-91ED-8084191697EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631DC246-B0D2-4F40-80D5-C69F986B8537}
+	EndGlobalSection
+EndGlobal

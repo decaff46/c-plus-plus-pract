@@ -1,0 +1,6 @@
+﻿  포인터 공부.cpp
+d:\c++code\성적표\포인터 공부.cpp(66): warning C4101: 'dp2' :참조되지 않은 지역 변수입니다.
+d:\c++code\성적표\포인터 공부.cpp(66): warning C4101: 'dp' :참조되지 않은 지역 변수입니다.
+d:\c++code\성적표\포인터 공부.cpp(66): warning C4101: 'dp4' :참조되지 않은 지역 변수입니다.
+d:\c++code\성적표\포인터 공부.cpp(66): warning C4101: 'dp3' :참조되지 않은 지역 변수입니다.
+  성적표.vcxproj -> D:\c++code\성적표\Debug\성적표.exe

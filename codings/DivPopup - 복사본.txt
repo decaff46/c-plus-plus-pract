@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body onload="Init()" >
+
+	<h1>흐미 이게 뭐여</h1>
+	
+	<button type="button" onclick="DelCookie()">DelCookie</button>
+	
+	
+
+	<div id="Popup" style="background-color:red; position:absolute; left:200px; top:100px; width:500px; height:300px">
+		
+		<div style="margin-left:-100px; position:absolute; width:200px; left:50%; bottom:30px">
+		
+			<div style="float:left; margin-right:10px;"><input type="checkbox" name="ViewChk" >오늘은 그만보기</div>
+			<div style="float:left"><a href="javascript:ClosePopup();">Close</a></div>
+		
+		</div>
+			
+	</div>
+
+	
+</body>
+
+<script>
+	function Init()
+	{
+		<!-- 쿠키명=쿠키값 으로 이루어진 쿠키가 존재하지 않는다. ( 없으면 -1 ) -->
+		if( document.cookie.indexOf("KMK=") != -1 )
+		{
+			document.getElementById("Popup").style.visibility = "hidden";		
+		}
+		
+		//document.getElementById("NowTime") = new Date();
+	}
+	
+	
+	function ClosePopup()
+	{
+		var Chk = document.getElementsByName("ViewChk");
+	
+		if( Chk[0].checked )
+		{
+			var TodayDate 	= new Date();
+			
+			TodayDate.setDate( TodayDate.getDate() + 1 );
+			 
+			document.cookie = "KMK=TEST; path=/ ; expires=" + TodayDate.toGMTString() + ";"
+			
+			Chk[0].checked = false;
+		}
+		
+		document.getElementById("Popup").style.visibility = "hidden";
+	}
+	
+	function DelCookie()
+	{
+		var TodayDate 	= new Date();
+		
+		TodayDate.setDate( TodayDate.getDate() - 1 );
+		 
+		document.cookie = "KMK=TEST; path=/ ; expires=" + TodayDate.toGMTString() + ";"
+	}
+</script>
+
+</html>

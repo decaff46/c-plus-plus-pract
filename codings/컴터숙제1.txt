@@ -1,0 +1,22 @@
+ÄÄÅÍ ¼÷Á¦ 
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	std::cout<<"self study"<<std::endl;
+	std::cout<<"study"<<endl;
+	int a = 10;
+	int b = 4;
+	cout << a+b << endl;
+	cout << 10-4 << endl;
+	cout << "b plus 18 is " << b+18<< endl;
+	**// int a = double a // double 10
+	double c = 18;
+	cout << c/2 << endl;
+	cout<<"why the fuck this aint working c/2 should b 9.0"<< endl;
+	double d = 1.1;
+	cout << a+d << endl;
+	return 0;
+}

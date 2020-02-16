@@ -1,0 +1,38 @@
+http://do.thelandingpagecourse.com/ : click here 밑 스크롤 움직임
+
+https://offers.impactbnd.com/the-beginners-guide-to-inbound-marketing : 마우스 호버시 색상 변화 + 화살표 
+
+https://basecamp.com/ : 해더 및 푸터 고정 값 + use google 밑 숫자 변환
+
+https://www.zendesk.com/register/#getstarted : 계란 움직임
+
+https://www.webprofits.com.au/backlinks/ : 알림 팝업 허용 알리는 팝업 및 기능
+
+https://www.freshbooks.com/ : 중반 부분(invocing Expenses ....)에 클릭에 따라서 따라오는 하이라이트 선
+
+https://www.airbnb.co.kr/ : 테그 세분화에 따른 검색 
+
+https://4rsmokehouse.com/ : 동영상 인코딩(임배딩?)
+
+http://www.cobbpediatric.com/ : 스크롤에 따른 자동 슬라이딩 ,  고정 백그라운드 사진  , 특정 문구 변화 (중앙 부분 사진 위 " " 바뀜)
+
+https://medium.com/@frank_meehan/slack-just-significantly-changed-their-home-page-b226769667bd#.h9zri43jq : 예전 슬랙 밑줄 그어진 부분의 단어만 계속해서 바뀜  
+
+https://www.tumblr.com/ : 스크롤에 따른 이미지 전체 교체 및 에니메이션 
+
+http://www.mipex.eu/ : 아이콘 액션 효과 
+
+http://www.adifferentclass.sg/ : 좌측에 있는 점들 (pg가 교체 될때마다 바뀜)
+
+http://borisignatovich.com/ : 동영상 참조 부탁 드립니다 
+
+http://www.nationalgeographic.com/climate-change/special-issue/ : 밑에있는 부터 값이 스크롤과 함께 사라짐 
+
+http://www.ted.com/ : 순차적 진열 
+
+https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/#trek : 위에 있는 것과 비슷한데 재밌네요 ㅎ 
+
+
+추가 요구 사항: 이미지 슬라이딩 언어 번역/교환, 파비콘 및 기타 SNS 링크 심기, 로딩 시 로딩 되고 있다는 아이콘 보이기 
+
+ 

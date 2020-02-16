@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "멤버이니셜라이저", "클래스 연산자 동적할당\멤버이니셜라이저.vcxproj", "{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Debug|x64.ActiveCfg = Debug|x64
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Debug|x64.Build.0 = Debug|x64
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Debug|x86.Build.0 = Debug|Win32
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Release|x64.ActiveCfg = Release|x64
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Release|x64.Build.0 = Release|x64
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Release|x86.ActiveCfg = Release|Win32
+		{B1BACA55-2BCE-48CB-BC49-245A353E2FEE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B21660E-BCA7-4A82-A079-F8A6E55C20D9}
+	EndGlobalSection
+EndGlobal

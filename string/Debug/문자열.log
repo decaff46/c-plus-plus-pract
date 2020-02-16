@@ -1,0 +1,14 @@
+﻿  숙제1.cpp
+d:\c++code\문자열\숙제1.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+d:\c++code\문자열\숙제1.cpp(87): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: 'strncpy' 선언을 참조하십시오.
+d:\c++code\문자열\숙제1.cpp(88): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(343): note: 'strncpy' 선언을 참조하십시오.
+d:\c++code\문자열\숙제1.cpp(97): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: 'strcat' 선언을 참조하십시오.
+d:\c++code\문자열\숙제1.cpp(98): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: 'strcat' 선언을 참조하십시오.
+d:\c++code\문자열\숙제1.cpp(99): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: 'strcat' 선언을 참조하십시오.
+  문자열.vcxproj -> D:\c++code\문자열\Debug\문자열.exe
